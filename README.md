@@ -1,6 +1,7 @@
 # About Me:
 👨🏻‍💻Ingeniero en Sistemas Computacionales<br>🎓Actualmente estudiando en el Tecnológico de Morelia
-
+# Trabajo:
+📁Portafolio de Proyectos: https://alanmorenoportfolio.netlify.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4lan.moreno) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alanmoreno392) <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanmoreno69&label=Profile%20views&color=0e75b6&style=flat" alt="alanmoreno69" /> </p>
